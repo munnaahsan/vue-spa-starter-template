@@ -1,6 +1,6 @@
 <template>
     <header class="page-header">
-
+        
     </header>
 </template>
 
@@ -8,7 +8,7 @@
 export default {
     data() {
         return {
-            
+
         }
     }
 }
